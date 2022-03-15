@@ -21,7 +21,7 @@ Um die Notebooks zu verwenden wie folgt vorgehen:
 
 Dann sollte sich ein Browserfenster öffnen, in dem lokal gespeicherte Notebooks geöffnet werden können.
 
-Ergänzendes Material aus der [Julia Academy](https://github.com/JuliaAcademy)
+Ergänzendes Material aus der [Julia Academy](https://github.com/JuliaAcademy):
 
 * [Introduction to Julia](https://github.com/JuliaAcademy/Introduction-to-Julia)
 
