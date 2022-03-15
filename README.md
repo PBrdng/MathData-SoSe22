@@ -20,6 +20,16 @@ Um die Notebooks zu verwenden wie folgt vorgehen:
 
 Dann sollte sich ein Browserfenster öffnen, in dem lokal gespeicherte Notebooks geöffnet werden können.
 
+Ergänzendes Material aus der [Julia Academy](https://github.com/JuliaAcademy)
+
+* [Introduction to Julia](https://github.com/JuliaAcademy/Introduction-to-Julia)
+
+* [Data Science](https://github.com/JuliaAcademy/DataScience)
+
+* [Foundations of Machine Learning](https://github.com/JuliaAcademy/Foundations-of-Machine-Learning)
+
+* [Data Frames](https://github.com/JuliaAcademy/DataFrames)
+
 
 ## Literatur
 Die folgenden Referenzen bieten zusätzliches Material zum Inhalt der Vorlesung.
