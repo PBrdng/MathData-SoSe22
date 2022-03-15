@@ -25,25 +25,41 @@ Dann sollte sich ein Browserfenster öffnen, in dem lokal gespeicherte Notebooks
 Die folgenden Referenzen bieten zusätzliches Material zum Inhalt der Vorlesung.
 
 1. Lineare Algebra
-[1](https://www.engineering.iastate.edu/~julied/classes/CE570/Notes/strangpaper.pdf)
+
+[AMM Artikel von Strang](https://www.engineering.iastate.edu/~julied/classes/CE570/Notes/strangpaper.pdf)
 
 2. Wahrscheinlichkeitstheorie
-[2](https://en.wikipedia.org/wiki/Probability_theory)
-[3](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf)
+
+[Wikipedia Artikel](https://en.wikipedia.org/wiki/Probability_theory)
+
+[Buch zur Wahrscheinlichkeitstheorie](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf)
 
 3. Netzwerkanalyse
-[4](https://mathweb.ucsd.edu/~fan/research/cb/ch1.pdf)
-[5](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws11/SGT/Lecture5.pdf)
-[6](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-5.pdf)
+
+[Spectral Graph Theory](https://mathweb.ucsd.edu/~fan/research/revised.html)
+(insbesondere Kapitel 1), Fan Chung.
+
+[Spectral Graph Theory](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws11/SGT/) (insbesondere Vorlesung 5), Thomas Sauerwald and He Sun
+
+[Graph Theory in the Information Age](https://mathweb.ucsd.edu/~fan/wp/graph.pdf), Fan Chung.
+
+[Computer Science Theory for the Information Age](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/) (insbesondere Notes 5), Venkatesan Guruswami and Ravi Kannan.
 
 4. Maschinelles Lernen
-[7](https://mml-book.github.io/book/mml-book.pdf)
-[8](http://www.pc-petersen.eu/Neural_Network_Theory.pdf)
+
+[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) (insbesondere Kapitel 8-12), Marc Peter Deisenroth, A. Aldo Faisal und Cheng Soon Ong.
+
+[Neural Network Theory](http://www.pc-petersen.eu/Neural_Network_Theory.pdf), Philipp Christian Petersen
 
 4. Matrizen und Tensoren
-[9](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31351-7_9.pdf)
-[10](https://www.kolda.net/publication/TensorReview.pdf)
+
+[Geometric Methods on Low-Rank Matrix and Tensor Manifolds](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31351-7_9.pdf), André Uschmajew and Bart Vandereycken.
+
+[Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf),
+Tamara G. Kolda und Brett W. Bader.
 
 5. Topologische Datenanalyse
-[11](https://www.few.vu.nl/~botnan/lecture_notes.pdf)
-[12](https://fugacci.github.io/home/notes.html)
+
+[Topological Data Analysis Spring 2020](https://www.few.vu.nl/~botnan/lecture_notes.pdf), Magnus Bakke Botnan.
+
+[Topological Data Analysis](https://fugacci.github.io/home/notes.html), Ulderico Fugacci.
