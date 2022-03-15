@@ -24,17 +24,17 @@ Dann sollte sich ein Browserfenster öffnen, in dem lokal gespeicherte Notebooks
 ## Literatur
 Die folgenden Referenzen bieten zusätzliches Material zum Inhalt der Vorlesung.
 
-1. Lineare Algebra
+#### 1. Lineare Algebra
 
 [AMM Artikel von Strang](https://www.engineering.iastate.edu/~julied/classes/CE570/Notes/strangpaper.pdf)
 
-2. Wahrscheinlichkeitstheorie
+#### 2. Wahrscheinlichkeitstheorie
 
 [Wikipedia Artikel](https://en.wikipedia.org/wiki/Probability_theory)
 
 [Buch zur Wahrscheinlichkeitstheorie](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf)
 
-3. Netzwerkanalyse
+#### 3. Netzwerkanalyse
 
 [Spectral Graph Theory](https://mathweb.ucsd.edu/~fan/research/revised.html)
 (insbesondere Kapitel 1), Fan Chung.
@@ -45,20 +45,20 @@ Die folgenden Referenzen bieten zusätzliches Material zum Inhalt der Vorlesung.
 
 [Computer Science Theory for the Information Age](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/) (insbesondere Notes 5), Venkatesan Guruswami and Ravi Kannan.
 
-4. Maschinelles Lernen
+#### 4. Maschinelles Lernen
 
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) (insbesondere Kapitel 8-12), Marc Peter Deisenroth, A. Aldo Faisal und Cheng Soon Ong.
 
 [Neural Network Theory](http://www.pc-petersen.eu/Neural_Network_Theory.pdf), Philipp Christian Petersen
 
-4. Matrizen und Tensoren
+#### 5. Matrizen und Tensoren
 
 [Geometric Methods on Low-Rank Matrix and Tensor Manifolds](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31351-7_9.pdf), André Uschmajew and Bart Vandereycken.
 
 [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf),
 Tamara G. Kolda und Brett W. Bader.
 
-5. Topologische Datenanalyse
+#### 6. Topologische Datenanalyse
 
 [Topological Data Analysis Spring 2020](https://www.few.vu.nl/~botnan/lecture_notes.pdf), Magnus Bakke Botnan.
 
