@@ -2,6 +2,7 @@
 
 Material für die Vorlesung "Mathematische Methoden in der Datenanalyse" im SoSe 2022 an der Universität Osnabrück.
 
+---
 
 ## Julia und Jupyter Notebooks
 
@@ -30,6 +31,7 @@ Ergänzendes Material aus der [Julia Academy](https://github.com/JuliaAcademy)
 
 * [Data Frames](https://github.com/JuliaAcademy/DataFrames)
 
+---
 
 ## Literatur
 Die folgenden Referenzen bieten zusätzliches Material zum Inhalt der Vorlesung.
