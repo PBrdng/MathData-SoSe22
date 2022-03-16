@@ -15,7 +15,7 @@ Um die Notebooks zu verwenden wie folgt vorgehen:
 * Julia starten.
 * In Julia per `]` in den Package manager wechseln.
 * `add IJulia` ausführen
-* Den Package manager verlassen.
+* Den Package manager per Backslash verlassen.
 * `using IJulia` ausführen
 * `notebook()` ausführen
 
