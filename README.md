@@ -10,7 +10,7 @@ Dieses Repository enthält die [Jupyter Notebooks](https://github.com/PBrdng/Mat
 
 Um die Notebooks zu verwenden wie folgt vorgehen:
 
-* Notebooks downloaden
+* Notebooks downloaden (per Klick auf den grünen Button rechts entweder als Zip File oder mit einem Git Client wie [Github Desktop](https://desktop.github.com) oder [Sublime](https://www.sublimemerge.com)).
 * Die neueste Version von Julia [downloaden](https://julialang.org/downloads/)
 * Julia starten.
 * In Julia per `]` in den Package manager wechseln.
