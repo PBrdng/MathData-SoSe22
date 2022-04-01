@@ -2,7 +2,7 @@
 
 Material für die Vorlesung "Mathematische Methoden in der Datenanalyse" im SoSe 2022 an der Universität Osnabrück.
 
-Das Skript ist unter [diesem Link](https://github.com/PBrdng/MathData-SoSe22/blob/main/MathData.pdf) verfügbar.
+Das Skript ist unter [diesem Link](https://nbviewer.org/github/PBrdng/MathData-SoSe22/blob/main/MathData.pdf) verfügbar.
 
 ---
 
