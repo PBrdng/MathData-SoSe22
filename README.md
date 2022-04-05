@@ -5,6 +5,17 @@ Material für die Vorlesung "Mathematische Methoden in der Datenanalyse" im SoSe
 Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/MathData.pdf) verfügbar (im Laufe der Vorlesung wird mehr Inhalt hinzugefügt werden).
 
 ---
+## Vorlesungen
+
+[1. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL01.pdf):
+
+  * Verschiedene Interpretationen einer Matrix $A\in\mathbb R^{n\times m}$.
+  * Orthogonale Zerlegung von $\mathbb R^n$ und $\mathbb R^m$.
+  * Lösungen von linearen Gleichungssystemen.
+  * Die Pseudo-Inverse.
+
+
+---
 
 ## Julia und Jupyter Notebooks
 
