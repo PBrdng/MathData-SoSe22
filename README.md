@@ -9,8 +9,8 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 
 [1. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL01.pdf):
 
-  * Verschiedene Interpretationen einer Matrix $`A\in\mathbb R^{n\times m}`$.
-  * Orthogonale Zerlegung von $`\mathbb R^n`$ und $`\mathbb R^m`$.
+  * Verschiedene Interpretationen einer `n × m` Matrix `A`.
+  * Orthogonale Zerlegung von `ℝⁿ` und `ℝᵐ`.
   * Lösungen von linearen Gleichungssystemen.
   * Die Pseudo-Inverse.
 
