@@ -11,7 +11,6 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 
   * Verschiedene Interpretationen einer `n × m` Matrix `A`.
   * Orthogonale Zerlegung von `ℝⁿ` und `ℝᵐ`.
-  * Lösungen von linearen Gleichungssystemen.
   * Die Pseudo-Inverse.
 
 
