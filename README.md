@@ -13,6 +13,10 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Orthogonale Zerlegung von `ℝⁿ` und `ℝᵐ`.
   * Die Pseudo-Inverse.
 
+[2. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL02.pdf):
+
+  * Die Singulärwertzerlegung.
+  * Eindeutigkeit von Singulärwerten.
 
 ---
 
