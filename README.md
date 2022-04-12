@@ -18,6 +18,12 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Die Singulärwertzerlegung.
   * Eindeutigkeit von Singulärwerten.
 
+[3. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL03.pdf):
+
+  * Frequentistischer und Bayes'scher Wahrscheinlichkeitsbegriff.
+  * Zufallsvariablen.
+  * Bayes' Theorem.
+
 ---
 
 ## Julia und Jupyter Notebooks
