@@ -24,6 +24,13 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Zufallsvariablen.
   * Bayes' Theorem.
 
+[4. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL04.pdf):
+
+  * Bayes' Theorem für Dichten.
+  * Erwartungswert und Varianz.
+  * Normalverteilung
+
+
 ---
 
 ## Julia und Jupyter Notebooks
