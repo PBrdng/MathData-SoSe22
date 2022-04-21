@@ -30,6 +30,14 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Erwartungswert und Varianz.
   * Normalverteilung
 
+[5. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL05.pdf):
+
+  * Die Laplace Matrix.
+
+[6. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL06.pdf):
+
+  * Das Spektrum eines Graphen.
+  * Beziehung zwischen Struktur eines Graphen und dessen Spektrum.
 
 ---
 
