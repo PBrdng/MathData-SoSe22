@@ -39,6 +39,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Das Spektrum eines Graphen.
   * Beziehung zwischen Struktur eines Graphen und dessen Spektrum.
 
+[7. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL07.pdf):
+
+  * Eigenvektoren der Laplace Matrix.
+  * Notebook 2.
+
 ---
 
 ## Julia und Jupyter Notebooks
