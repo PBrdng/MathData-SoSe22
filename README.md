@@ -44,6 +44,12 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Eigenvektoren der Laplace Matrix.
   * Notebook 2.
 
+[8. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL08.pdf):
+
+  * Durchmesser eines Graphen.
+  * Spannbäume.
+  * Definition Markov-Prozess.
+
 ---
 
 ## Julia und Jupyter Notebooks
