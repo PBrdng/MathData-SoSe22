@@ -50,6 +50,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Spannbäume.
   * Definition Markov-Prozess.
 
+[9. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL09.pdf):
+
+  * Übergangsmatrix.
+  * Stationäre Verteilung.
+
 ---
 
 ## Julia und Jupyter Notebooks
