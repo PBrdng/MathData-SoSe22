@@ -65,6 +65,10 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Beweis von Existenz und Eindeutigkeit stationärer Verteilungen.
   * Metropolis-Hastings Algorithmus.
 
+[12. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL12.pdf):
+
+  * Was ist Maschinelles Lernen?
+  * Daten, Modelle und Lernen.
 
 ---
 
