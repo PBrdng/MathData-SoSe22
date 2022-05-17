@@ -70,6 +70,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Was ist Maschinelles Lernen?
   * Daten, Modelle und Lernen.
 
+[13. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL13.pdf):
+
+  * Lineare Regression.
+  * Least-Squares und Ridge-Regression.
+
 ---
 
 ## Julia und Jupyter Notebooks
