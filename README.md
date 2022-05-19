@@ -75,7 +75,7 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Lineare Regression.
   * Least-Squares, Ridge-Regression und MLE.
 
-[13. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL13.pdf):
+[13. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL14.pdf):
 
   * Nicht-lineare Regression.
   * MAP und Bayes'scher Ansatz.
