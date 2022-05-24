@@ -75,11 +75,14 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Lineare Regression.
   * Least-Squares, Ridge-Regression und MLE.
 
-[13. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL14.pdf):
+[14. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL14.pdf):
 
   * Nicht-lineare Regression.
   * MAP und Bayes'scher Ansatz.
 
+[15. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL15.pdf):
+
+  * Das Modell "Neuronales Netz".
 ---
 
 ## Julia und Jupyter Notebooks
