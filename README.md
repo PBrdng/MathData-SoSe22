@@ -83,6 +83,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 [15. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL15.pdf):
 
   * Das Modell "Neuronales Netz".
+
+[16. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL16.pdf):
+
+  * Support Vector Machines.
+  * Primale und Duale SVMs.
 ---
 
 ## Julia und Jupyter Notebooks
