@@ -88,6 +88,12 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 
   * Support Vector Machines.
   * Primale und Duale SVMs.
+
+
+[17. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL17.pdf):
+
+  * Kernels.
+  
 ---
 
 ## Julia und Jupyter Notebooks
