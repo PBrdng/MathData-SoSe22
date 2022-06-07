@@ -95,6 +95,10 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Duale SVM cont'd.
   * Kernels.
 
+[18. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL18.pdf):
+
+  * PCA.
+
 ---
 
 ## Julia und Jupyter Notebooks
