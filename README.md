@@ -99,6 +99,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 
   * PCA.
 
+[19. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL19.pdf):
+
+  * PCA und SVD.
+  * PCA mit Gauss'schem Prior.
+
 ---
 
 ## Julia und Jupyter Notebooks
