@@ -104,6 +104,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * PCA und SVD.
   * PCA mit Gauss'schem Prior.
 
+[20. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL20.pdf):
+
+  * Ansatz in der Topologische Datenanalyse.
+  * Simplices.
+
 ---
 
 ## Julia und Jupyter Notebooks
