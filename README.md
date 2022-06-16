@@ -109,6 +109,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Ansatz in der Topologische Datenanalyse.
   * Simplices.
 
+[21. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL21.pdf):
+
+  * Simpliziale Komplexe.
+  * Cech und Vietoris-Rips Komplex.
+
 ---
 
 ## Julia und Jupyter Notebooks
