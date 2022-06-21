@@ -114,6 +114,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Simpliziale Komplexe.
   * Cech und Vietoris-Rips Komplex.
 
+[22. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL22.pdf):
+
+  * Vergleich Cech und Vietoris-Rips Komplex.
+  * Homologie von planaren Komplexen.
+
 ---
 
 ## Julia und Jupyter Notebooks
