@@ -119,6 +119,13 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
   * Vergleich Cech und Vietoris-Rips Komplex.
   * Homologie von planaren Komplexen.
 
+[23. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL23.pdf):
+
+  * Homologie.
+  * Betti Zahlen.
+  * Euler Charakteristik..
+
+
 ---
 
 ## Julia und Jupyter Notebooks
