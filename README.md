@@ -123,7 +123,11 @@ Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/Math
 
   * Homologie.
   * Betti Zahlen.
-  * Euler Charakteristik..
+  * Euler Charakteristik.
+
+[24. Vorlesung](https://pbrdng.github.io/MathData-SoSe22/Vorlesungen/VL24.pdf):
+
+  * Persistente Homologie.
 
 
 ---
