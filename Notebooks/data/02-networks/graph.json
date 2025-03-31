@@ -1,0 +1,8964 @@
+[
+    {
+        "name": "Data_science",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Computer_science",
+        "links": [
+            "Database",
+            "Science"
+        ]
+    },
+    {
+        "name": "Information_science",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Big_data",
+        "links": [
+            "Datafication",
+            "Data",
+            "Data-mining",
+            "Database",
+            "E-Science",
+            "Metadata",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Computational_science",
+        "links": [
+            "Science",
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Data_acquisition",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_cleansing",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_augmentation",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_anonymization",
+        "links": [
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_archaeology",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data",
+        "links": [
+            "Database",
+            "Datasheet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_analysis",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_corruption",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_curation",
+        "links": [
+            "Data",
+            "DataNet",
+            "DataONE",
+            "Datanet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_cooperative",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_deduplication",
+        "links": [
+            "Data",
+            "Datalight"
+        ]
+    },
+    {
+        "name": "Data_editing",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_ecosystem",
+        "links": [
+            "Data",
+            "Datafication",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_degradation",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_exploration",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_engineering",
+        "links": [
+            "Data",
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_extraction",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_format_management",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_compression",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_infrastructure",
+        "links": [
+            "D4Science",
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_integrity",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_governance",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_collection",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_farming",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_fusion",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_lineage",
+        "links": [
+            "Data",
+            "Dataflow",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_quality",
+        "links": [
+            "Data",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Data_philanthropy",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_loss",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_integration",
+        "links": [
+            "Data",
+            "DataONE",
+            "Database",
+            "Datalog",
+            "Datanet",
+            "Dataspaces",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_preprocessing",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_loading",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_processing",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_publishing",
+        "links": [
+            "Data",
+            "Dataverse",
+            "GigaScience",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_scrubbing",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_model",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_re-identification",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_migration",
+        "links": [
+            "Data",
+            "Database",
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_management",
+        "links": [
+            "Data",
+            "Dataflows",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_rescue",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_preservation",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_retention",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_scraping",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_mining",
+        "links": [
+            "DATADVANCE",
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_set",
+        "links": [
+            "Data",
+            "Data.europa.eu"
+        ]
+    },
+    {
+        "name": "Data_synchronization",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_security",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_recovery",
+        "links": [
+            "Data",
+            "GetDataBack",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_reduction",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_redundancy",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_remanence",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_structure",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_sharing",
+        "links": [
+            "DataONE"
+        ]
+    },
+    {
+        "name": "Data_wrangling",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_steward",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_storage",
+        "links": [
+            "Data",
+            "DataPlay",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_validation",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_warehouse",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Datasaurus_dozen",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Exploratory_data_analysis",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Open_data",
+        "links": [
+            "Data",
+            "Data.gov",
+            "Data.gov.in",
+            "Data.gov.uk",
+            "Dataverse",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Metadata",
+        "links": [
+            "Metascience",
+            "DataONE",
+            "Data",
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Unstructured_data",
+        "links": [
+            "Data",
+            "Datasphere",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Formal_science",
+        "links": [
+            "Science",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Natural_science",
+        "links": [
+            "Nanoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Political_science",
+        "links": [
+            "Geoscience",
+            "Sciences"
+        ]
+    },
+    {
+        "name": "American_Academy_of_Arts_and_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Bachelor_of_Science",
+        "links": [
+            "Non-science"
+        ]
+    },
+    {
+        "name": "Constructivism_(philosophy_of_science)",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Pseudoscience",
+        "links": [
+            "Non-science",
+            "Antiscience",
+            "Geoscience",
+            "Protoscience",
+            "Science",
+            "Metascience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Outline_of_computer_science",
+        "links": [
+            "Database",
+            "Databases",
+            "Datatype",
+            "Science"
+        ]
+    },
+    {
+        "name": "Theoretical_computer_science",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Philosophy_of_computer_science",
+        "links": [
+            "Database",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Computer_graphics_(computer_science)",
+        "links": [
+            "DataCAD",
+            "Database"
+        ]
+    },
+    {
+        "name": "Concurrency_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "List_of_computer_science_conferences",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database",
+        "links": [
+            "Data",
+            "Database-as-IPC",
+            "Datalog",
+            "Dataphor",
+            "Datasource",
+            "Dataspaces",
+            "Exadata",
+            "Hyperdata",
+            "Metadata",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Applied_science",
+        "links": [
+            "Neuroscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Cognitive_science",
+        "links": [
+            "Database",
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Computer_data_storage",
+        "links": [
+            "Data",
+            "DataPlay",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_modeling",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_model",
+        "links": [
+            "Data",
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Earth_science",
+        "links": [
+            "GIScience",
+            "Nanogeoscience",
+            "Paleogeoscience"
+        ]
+    },
+    {
+        "name": "Glossary_of_computer_science",
+        "links": [
+            "Data",
+            "Database",
+            "Datalog",
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Glossary_of_environmental_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Logic_in_computer_science",
+        "links": [
+            "Database",
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Multimedia_database",
+        "links": [
+            "Database",
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Ontology_(information_science)",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "List_of_pioneers_in_computer_science",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Semantics_(computer_science)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Array_(data_structure)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Recursion_(computer_science)",
+        "links": [
+            "Data",
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Stack_(abstract_data_type)",
+        "links": [
+            "Data",
+            "Wiley-Interscience"
+        ]
+    },
+    {
+        "name": "String_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Archival_science",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Cataloging_(library_science)",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Glossary_of_library_and_information_science",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Human_science",
+        "links": [
+            "Neurosciences",
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_science",
+        "links": [
+            "Protoscience",
+            "Pseudoscience",
+            "Science",
+            "Antiscience",
+            "Database",
+            "Metascience",
+            "Neuroscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Library_and_information_science",
+        "links": [
+            "Metadata",
+            "Data"
+        ]
+    },
+    {
+        "name": "Outline_of_library_and_information_science",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Outline_of_social_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Outline_of_information_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Philosophy_of_social_science",
+        "links": [
+            "Antiscience",
+            "Geoscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Relational_database",
+        "links": [
+            "Database",
+            "Databricks",
+            "Datalog",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Philosophy_of_science",
+        "links": [
+            "Geoscience",
+            "Metascience",
+            "Neuroscience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science",
+            "Antiscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_and_technology_studies",
+        "links": [
+            "Technoscience",
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_studies",
+        "links": [
+            "Metascience",
+            "Antiscience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Social_science",
+        "links": [
+            "Antiscience",
+            "Neuroscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Astrophysics_Data_System",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_dictionary",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_access",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_literacy",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Computational_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Citizen_science",
+        "links": [
+            "Antiscience",
+            "Dataset",
+            "Metadata",
+            "Metascience",
+            "Pseudoscience",
+            "ScienceAtHome",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "EScience",
+        "links": [
+            "E-Science"
+        ]
+    },
+    {
+        "name": "Tag_(metadata)",
+        "links": [
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Hard_and_soft_science",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Normative_science",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Metascience",
+        "links": [
+            "Science",
+            "Anti-science",
+            "Antiscience",
+            "Metadata",
+            "Pseudoscience",
+            "Technoscience",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Big_data_ethics",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_defined_storage",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datafication",
+        "links": [
+            "Data",
+            "Dataism"
+        ]
+    },
+    {
+        "name": "List_of_big_data_companies",
+        "links": [
+            "DataStax",
+            "Databricks",
+            "Dataiku",
+            "Teradata",
+            "Zoomdata"
+        ]
+    },
+    {
+        "name": "Document-oriented_database",
+        "links": [
+            "Database",
+            "Datalog",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Very_large_database",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "DNA_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Critical_data_studies",
+        "links": [
+            "Data",
+            "Datafication",
+            "Dataveillance",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_journalism",
+        "links": [
+            "Data.gov",
+            "Data.gov.uk"
+        ]
+    },
+    {
+        "name": "Dirty_data",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_lake",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Distributed_database",
+        "links": [
+            "Database",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "E-Science",
+        "links": [
+            "Data",
+            "E-science",
+            "Science"
+        ]
+    },
+    {
+        "name": "Foundations_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Government_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Small_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Teradata",
+        "links": [
+            "Database",
+            "Dataquest"
+        ]
+    },
+    {
+        "name": "The_Data_Incubator",
+        "links": [
+            "Databricks"
+        ]
+    },
+    {
+        "name": "Utah_Data_Center",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Cloud_database",
+        "links": [
+            "DataStax",
+            "Database"
+        ]
+    },
+    {
+        "name": "Databases",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_portability",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Distributed_data_store",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Dataflow_architecture",
+        "links": [
+            "Database",
+            "Dataflow",
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Dataflow_programming",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Multiple_instruction,_single_data",
+        "links": [
+            "Data",
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Multiple_instruction,_multiple_data",
+        "links": [
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Single_instruction,_single_data",
+        "links": [
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Single_instruction,_multiple_data",
+        "links": [
+            "Datapath"
+        ]
+    },
+    {
+        "name": "JPL_Small-Body_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Science_communication",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Data_profiling",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Table_(database)",
+        "links": [
+            "Database",
+            "Datatype",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_preparation",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Meta-learning_(computer_science)",
+        "links": [
+            "Database",
+            "Meta-data"
+        ]
+    },
+    {
+        "name": "List_of_datasets_for_machine-learning_research",
+        "links": [
+            "DataONE",
+            "Dataverse",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Training,_validation,_and_test_data_sets",
+        "links": [
+            "Data",
+            "Dataset"
+        ]
+    },
+    {
+        "name": "Neuroscience",
+        "links": [
+            "Nanoneuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Metadata_removal_tool",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Barcode_of_Life_Data_System",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Ensembl_genome_database_project",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Gene_Disease_Database",
+        "links": [
+            "Database",
+            "Databases"
+        ]
+    },
+    {
+        "name": "International_Nucleotide_Sequence_Database_Collaboration",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Funding_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Objectivity_(science)",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Nutritional_science",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Protein_Data_Bank",
+        "links": [
+            "Database",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Taxonomic_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Saccharomyces_Genome_Database",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Global_Oceanographic_Data_Archaeology_and_Rescue_Project",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Paradata_(learning_resource_analytics)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Scientific_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_(computer_science)",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_(disambiguation)",
+        "links": [
+            "DATA",
+            "Data"
+        ]
+    },
+    {
+        "name": "Data-driven_testing",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_aggregation",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "Dark_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_bank",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_reporting",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_domain",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_clean_room",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Count_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_element",
+        "links": [
+            "Data",
+            "Database",
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Environmental_data_rescue",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Datasheet",
+        "links": [
+            "Datasheets.com"
+        ]
+    },
+    {
+        "name": "FAIR_data",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Experimental_data",
+        "links": [
+            "Data",
+            "Science"
+        ]
+    },
+    {
+        "name": "Grouped_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Missing_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Raw_data",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Structuralism_(philosophy_of_science)",
+        "links": [
+            "Data",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "List_of_life_sciences",
+        "links": [
+            "BioScience",
+            "Bioscience",
+            "Neuroscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Data_and_information_visualization",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Cross-industry_standard_process_for_data_mining",
+        "links": [
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Data_system",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Multiway_data_analysis",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_transformation_(statistics)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_buffer",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "DataONE",
+        "links": [
+            "DataNet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datanet",
+        "links": [
+            "DataONE"
+        ]
+    },
+    {
+        "name": "Linguistic_Data_Consortium",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "DataNet",
+        "links": [
+            "Datanet"
+        ]
+    },
+    {
+        "name": "Linked_data",
+        "links": [
+            "Data.gov.uk",
+            "Database",
+            "Dataset",
+            "Datasheets",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Reference_(computer_science)",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Datatype",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Variable_(computer_science)",
+        "links": [
+            "Datatype"
+        ]
+    },
+    {
+        "name": "Data_management_platform",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_exchange",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Paper_data_storage",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Secondary_data",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Alternative_data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_administrator",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Binary_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Database_design",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Semi-structured_data",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "Fu_Foundation_School_of_Engineering_and_Applied_Science",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "National_Medal_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Principles_of_Neural_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Aggregate_(data_warehouse)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_Mining_Extensions",
+        "links": [
+            "Database",
+            "Datalog",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_mart",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_stream",
+        "links": [
+            "Datastream"
+        ]
+    },
+    {
+        "name": "Data_vault_modeling",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Dimension_(data_warehouse)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_mesh",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_warehouse_automation",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Operational_data_store",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Measure_(data_warehouse)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_file",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "National_Science_Foundation",
+        "links": [
+            "Geosciences",
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Comparison_of_relational_database_management_systems",
+        "links": [
+            "Database",
+            "Teradata",
+            "UniData"
+        ]
+    },
+    {
+        "name": "Database_schema",
+        "links": [
+            "Database",
+            "Datafile",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_system",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Asset_Description_Metadata_Schema",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_mapping",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Master_data_management",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Universal_Data_Element_Framework",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_collection_system",
+        "links": [
+            "Datamodel",
+            "Dataset"
+        ]
+    },
+    {
+        "name": "Metadata_management",
+        "links": [
+            "Data",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Data_consistency",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Health_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Database_normalization",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_administration",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Research_data_archiving",
+        "links": [
+            "Data",
+            "DataONE",
+            "Datanet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_truncation",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Change_data_capture",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_architecture",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Datalog",
+        "links": [
+            "Database",
+            "DatalogZ"
+        ]
+    },
+    {
+        "name": "Dataspaces",
+        "links": [
+            "Dataspace"
+        ]
+    },
+    {
+        "name": "Data_transformation_(computing)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Aggregate_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Registry_of_Research_Data_Repositories",
+        "links": [
+            "Data",
+            "DataCite"
+        ]
+    },
+    {
+        "name": "Research_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Open_science",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Database_publishing",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Data_structure_diagram",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data-flow_diagram",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Semantic_data_model",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Cardinality_(data_modeling)",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Common_data_model",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_management_system",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "EXPRESS_(data_modeling_language)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_model_(GIS)",
+        "links": [
+            "Geodatabase",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Flat-file_database",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Integrated_Data_Store",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Object_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Oracle_Database",
+        "links": [
+            "Database",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Data_conversion",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_Management_Association",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_management_plan",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_proliferation",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_theft",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_index",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Dataflows",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Metadata_discovery",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_publishing",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_registry",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Reference_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Shard_(database_architecture)",
+        "links": [
+            "Database",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Telecommunications_(Interception_and_Access)_Amendment_(Data_Retention)_Act_2015",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_transaction",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data-centric_security",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_entry_clerk",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_connection",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_management",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "International_Conference_on_Very_Large_Data_Bases",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_Directive",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Oracle_Data_Mining",
+        "links": [
+            "Data-mining"
+        ]
+    },
+    {
+        "name": "Profiling_(information_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_dredging",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Real-time_data",
+        "links": [
+            "Datafication"
+        ]
+    },
+    {
+        "name": "Data_store",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Column_(database)",
+        "links": [
+            "Data",
+            "Database",
+            "Datatype"
+        ]
+    },
+    {
+        "name": "MNIST_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Record_(computer_science)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Row_(database)",
+        "links": [
+            "Data",
+            "Database",
+            "Datatype"
+        ]
+    },
+    {
+        "name": "Paxos_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "National_data_protection_authority",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Transparent_data_encryption",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Magnetic-tape_data_storage",
+        "links": [
+            "Data",
+            "Data8",
+            "DataPlay",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_dissemination",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_element_definition",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "5D_optical_data_storage",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "3D_optical_data_storage",
+        "links": [
+            "DataPlay"
+        ]
+    },
+    {
+        "name": "Data_validation_and_reconciliation",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_communication",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Holographic_data_storage",
+        "links": [
+            "Data",
+            "DataPlay"
+        ]
+    },
+    {
+        "name": "Digital_Data_Storage",
+        "links": [
+            "Data",
+            "Data8"
+        ]
+    },
+    {
+        "name": "MD_Data",
+        "links": [
+            "DataPlay"
+        ]
+    },
+    {
+        "name": "Quad_Data_Rate_SRAM",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Transaction_data",
+        "links": [
+            "Data",
+            "Databases"
+        ]
+    },
+    {
+        "name": "Computer_science_&_engineering",
+        "links": [
+            "Database",
+            "Science"
+        ]
+    },
+    {
+        "name": "Dataproducts",
+        "links": [
+            "Datapoint",
+            "YE-Data"
+        ]
+    },
+    {
+        "name": "Data_broker",
+        "links": [
+            "Database",
+            "Datalogix"
+        ]
+    },
+    {
+        "name": "Data_localization",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Database_trigger",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Metadata_(computing)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Partition_(database)",
+        "links": [
+            "Database",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Testing_hypotheses_suggested_by_the_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Freebase_(database)",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Hyperdata",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Relational_data_mining",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Web_Science_Trust",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Microdata_(HTML)",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Portable_data_terminal",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Commensurability_(philosophy_of_science)",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Criticism_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_wars",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Relationship_between_religion_and_science",
+        "links": [
+            "Science",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Antiscience",
+            "Metascience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Sense_data",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Unity_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Sciences",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Uncomfortable_science",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "American_Association_for_the_Advancement_of_Science",
+        "links": [
+            "EuroScience",
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Holism_in_science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Environmental_science",
+        "links": [
+            "Geosciences",
+            "Paleogeoscience"
+        ]
+    },
+    {
+        "name": "Science_of_team_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Forensic_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Java_Data_Objects",
+        "links": [
+            "DataNucleus"
+        ]
+    },
+    {
+        "name": "Open_scientific_data",
+        "links": [
+            "Datacite",
+            "Dataverse"
+        ]
+    },
+    {
+        "name": "Data.gov.in",
+        "links": [
+            "Data.gov",
+            "Data.gov.uk"
+        ]
+    },
+    {
+        "name": "Data.gov",
+        "links": [
+            "Data.gov.in",
+            "Data.gov.uk",
+            "Science.gov"
+        ]
+    },
+    {
+        "name": "EU_Open_Data_Portal",
+        "links": [
+            "Data.europa.eu"
+        ]
+    },
+    {
+        "name": "Data.gov.uk",
+        "links": [
+            "Data.gov"
+        ]
+    },
+    {
+        "name": "International_Council_for_Science",
+        "links": [
+            "CODATA",
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Open_data_in_Canada",
+        "links": [
+            "Data.gov",
+            "Data.gov.uk"
+        ]
+    },
+    {
+        "name": "Open_energy_system_databases",
+        "links": [
+            "Database",
+            "Dataset",
+            "Metadata",
+            "OpenDataSoft",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Open_data_in_the_United_States",
+        "links": [
+            "Data.gov"
+        ]
+    },
+    {
+        "name": "Data_Desk",
+        "links": [
+            "Dataplot"
+        ]
+    },
+    {
+        "name": "Empirical_sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science,_technology,_engineering,_and_mathematics",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Systems_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Conference_on_Innovative_Data_Systems_Research",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Commit_(data_management)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Geospatial_metadata",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Business_metadata",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_Documentation_Initiative",
+        "links": [
+            "Dataverse",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_catalog",
+        "links": [
+            "Database",
+            "Databases",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Ecological_Metadata_Language",
+        "links": [
+            "DataONE",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Extensible_Metadata_Platform",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Learning_object_metadata",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_engine",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_modeling",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_repository",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Metadata_Encoding_and_Transmission_Standard",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Oracle_metadata",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Science_information_on_Wikipedia",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Web_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_marketing",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "Antiscience",
+        "links": [
+            "Metascience",
+            "Protoscience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Big_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Branches_of_science",
+        "links": [
+            "Data",
+            "Metascience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Economics_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Feminist_technoscience",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "History_and_philosophy_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "History_of_science_and_technology",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Index_of_philosophy_of_science_articles",
+        "links": [
+            "Antiscience",
+            "Neuroscience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_science_policy",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "List_of_philosophers_of_science",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Logology_(science)",
+        "links": [
+            "Metascience",
+            "Science",
+            "Antiscience",
+            "Data",
+            "Neuroscience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Neo-colonial_science",
+        "links": [
+            "Antiscience",
+            "Data",
+            "Geosciences",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Non-science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Normal_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Outline_of_physical_science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Outline_of_science",
+        "links": [
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Science.tv"
+        ]
+    },
+    {
+        "name": "Protoscience",
+        "links": [
+            "Non-science",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Regulation_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Post-normal_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Politicization_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Right_to_science_and_culture",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Rhetoric_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_policy",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "ScienceDirect",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Psychology_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_education",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Special_sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Sociology_of_the_history_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_of_science_policy",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Technoscience",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Women_in_science",
+        "links": [
+            "Proto-science",
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Datasphere",
+        "links": [
+            "Data",
+            "Datacommons.org",
+            "Datafication"
+        ]
+    },
+    {
+        "name": "Royal_Netherlands_Academy_of_Arts_and_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Symposium_on_Principles_of_Database_Systems",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Jordan_University_of_Science_and_Technology",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Paris_Sciences_et_Lettres_University",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Datapoint_2200",
+        "links": [
+            "Datapoint"
+        ]
+    },
+    {
+        "name": "Statistical_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "AMiner_(database)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "List_of_academic_databases_and_search_engines",
+        "links": [
+            "Database",
+            "Geoscience",
+            "MyScienceWork",
+            "Science",
+            "Science.gov",
+            "ScienceOpen",
+            "WorldWideScience"
+        ]
+    },
+    {
+        "name": "ScienceDirect",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Science_Citation_Index_Expanded",
+        "links": [
+            "Science",
+            "Wiley-Interscience"
+        ]
+    },
+    {
+        "name": "Education_sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Open_Science_Infrastructure",
+        "links": [
+            "E-Science",
+            "Datacite"
+        ]
+    },
+    {
+        "name": "Outline_of_Earth_sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Outline_of_natural_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Polymer_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Aesthetics_of_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Cultural_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education,_Culture_and_Science_(Netherlands)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_museum",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "National_Academies_of_Sciences,_Engineering,_and_Medicine",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Nature_Geoscience",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Humboldtian_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_diplomacy",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Atmospheric_science",
+        "links": [
+            "Paleogeoscience"
+        ]
+    },
+    {
+        "name": "Index_of_Earth_science_articles",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Paleogeoscience",
+        "links": [
+            "Geoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Soil_science",
+        "links": [
+            "Paleogeoscience"
+        ]
+    },
+    {
+        "name": "Educational_neuroscience",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Product_data_management",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Lists_of_science_and_technology_awards",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Military_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_fiction",
+        "links": [
+            "Pseudoscience",
+            "Science",
+            "Science-fantasy"
+        ]
+    },
+    {
+        "name": "Framing_(social_sciences)",
+        "links": [
+            "Pseudoscience",
+            "Conscience"
+        ]
+    },
+    {
+        "name": "Trust_(social_science)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "List_of_science_magazines",
+        "links": [
+            "EuroScience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Cognitive_neuroscience",
+        "links": [
+            "Neuroscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Languages_of_science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Outline_of_applied_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Behavioral_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Outline_of_databases",
+        "links": [
+            "Data",
+            "Databank",
+            "Database",
+            "Datasource",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Outline_of_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Systems_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Outline_of_forensic_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "20th_century_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Historiography_of_science",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "History_of_pseudoscience",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_science_and_technology_in_China",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "European_science_in_the_Middle_Ages",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_in_classical_antiquity",
+        "links": [
+            "Protoscience"
+        ]
+    },
+    {
+        "name": "Science_in_the_ancient_world",
+        "links": [
+            "Neuroscience",
+            "Protoscience"
+        ]
+    },
+    {
+        "name": "Romanticism_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_in_the_Age_of_Enlightenment",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_science_and_technology_in_Mexico",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Proto-science",
+        "links": [
+            "Protoscience"
+        ]
+    },
+    {
+        "name": "Indigenous_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "History_of_Science_Society",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_Advances",
+        "links": [
+            "Neuroscience",
+            "ScienceOpen"
+        ]
+    },
+    {
+        "name": "March_for_Science",
+        "links": [
+            "Science",
+            "ScienceInsider"
+        ]
+    },
+    {
+        "name": "Office_of_Science",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "Uniformed_Services_University_of_the_Health_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_journalism",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Iran",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Affective_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Affective_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Center_for_Open_Science",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Basic_science_(psychology)",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Neuroscience_of_free_will",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Social_cognitive_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Creation_science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Neuroscience_of_religion",
+        "links": [
+            "Neuroscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Gilead_Sciences",
+        "links": [
+            "Datadog"
+        ]
+    },
+    {
+        "name": "President_of_the_American_Association_for_the_Advancement_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Canada",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Biotechnology_and_Biological_Sciences_Research_Council",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "MIT_School_of_Humanities,_Arts,_and_Social_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Daedalus;_or,_Science_and_the_Future",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Carnegie_Institution_for_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science-Based_Medicine",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_the_United_States",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Doctor_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Invalid_science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Harrisburg_University_of_Science_and_Technology",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Missouri_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Princeton_Neuroscience_Institute",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Metascience_(research)",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "University_of_Washington_College_of_Arts_and_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_fiction_prototyping",
+        "links": [
+            "Science-fiction"
+        ]
+    },
+    {
+        "name": "Beilstein_database",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Coding_(social_sciences)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Greek_letters_used_in_mathematics,_science,_and_engineering",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "List_of_geoscience_organizations",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Chemical_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Science_&_Education",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Social_data_revolution",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Evolutionary_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Neuroscience_of_sex_differences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Neuroscience_of_sleep",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Linguistic_Linked_Open_Data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Expressive_power_(computer_science)",
+        "links": [
+            "Database",
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Clinical_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Consumer_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Integrative_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Cellular_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Society_for_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Nutritional_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Social_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Molecular_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Sensory_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "P600_(neuroscience)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "MANET_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "XML_Metadata_Interchange",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Defense_Science_Board",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Graph_database",
+        "links": [
+            "DataStax",
+            "Database",
+            "Datalog",
+            "Teradata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Statistical_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "List_of_topics_characterized_as_pseudoscience",
+        "links": [
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Biorhythm_(pseudoscience)",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Bourgeois_pseudoscience",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Fads_and_Fallacies_in_the_Name_of_Science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Fringe_science",
+        "links": [
+            "Antiscience",
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Junk_science",
+        "links": [
+            "Pseudoscience",
+            "Antiscience",
+            "Data"
+        ]
+    },
+    {
+        "name": "Pathological_science",
+        "links": [
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Torsion_field_(pseudoscience)",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "The_Skeptic_Encyclopedia_of_Pseudoscience",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Uncertainty_and_Quality_in_Science_for_Policy",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Voodoo_Science",
+        "links": [
+            "Antiscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Ragged_Edge_of_Science",
+        "links": [
+            "Pseudo-science",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "CAD_data_exchange",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Spatial_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Control_Data_Corporation",
+        "links": [
+            "Datapoint",
+            "Dataproducts",
+            "YE-Data"
+        ]
+    },
+    {
+        "name": "Computer_science_and_engineering",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Dynamical_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Bachelor_of_Science_in_Information_Technology",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "Explicit_data_graph_execution",
+        "links": [
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Finite-state_machine_with_datapath",
+        "links": [
+            "Datapath"
+        ]
+    },
+    {
+        "name": "Database-centric_architecture",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Consensus_(computer_science)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datacom_(disambiguation)",
+        "links": [
+            "DATACOM/DB"
+        ]
+    },
+    {
+        "name": "Data_link_layer",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datapoint_Corporation",
+        "links": [
+            "Datapoint"
+        ]
+    },
+    {
+        "name": "Evolution-Data_Optimized",
+        "links": [
+            "DataTAC"
+        ]
+    },
+    {
+        "name": "Retransmission_(data_networks)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Public_data_network",
+        "links": [
+            "DATAPAC"
+        ]
+    },
+    {
+        "name": "International_Conference_on_Database_Theory",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Evolutionary_data_mining",
+        "links": [
+            "Database",
+            "Dataset"
+        ]
+    },
+    {
+        "name": "Navigational_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Lists_of_databases",
+        "links": [
+            "Data",
+            "Databank",
+            "Databases"
+        ]
+    },
+    {
+        "name": "Database_machine",
+        "links": [
+            "Database",
+            "Datasource",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Database_engine",
+        "links": [
+            "Data",
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_application",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_tuning",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_security",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Active_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Bibliographic_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Atomicity_(database_systems)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Comparison_of_object_database_management_systems",
+        "links": [
+            "Database",
+            "Datalog",
+            "Datatypes"
+        ]
+    },
+    {
+        "name": "Blockchain-based_database",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_Base_Task_Group",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_hierarchy",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_control_language",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Cursor_(databases)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_definition_language",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Data_manipulation_language",
+        "links": [
+            "Data",
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_caching",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_activity_monitoring",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_abstraction_layer",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_audit",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_refactoring",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_preservation",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_server",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_forensics",
+        "links": [
+            "Database",
+            "Databases",
+            "Datasource",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_object",
+        "links": [
+            "Data",
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Deductive_database",
+        "links": [
+            "Database",
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Datasource",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_testing",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_language",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_theory",
+        "links": [
+            "Database",
+            "Datalog",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_virtualization",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Federated_database_system",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_query_language",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Database_storage_structures",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Intelligent_database",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Java_Database_Connectivity",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Isolation_(database_systems)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "List_of_online_databases",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "List_of_biodiversity_databases",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "List_of_relational_database_management_systems",
+        "links": [
+            "DataFlex",
+            "Database",
+            "Dataphor",
+            "Teradata",
+            "UniData"
+        ]
+    },
+    {
+        "name": "Negative_database",
+        "links": [
+            "Database",
+            "Datasource"
+        ]
+    },
+    {
+        "name": "Multi-model_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Operational_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Open_Database_Connectivity",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Relation_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Parallel_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Probabilistic_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Temporal_database",
+        "links": [
+            "Datalog",
+            "Science",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Synonym_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "XML_database",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Computer_Science_Ontology",
+        "links": [
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Animation_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Node_(computer_science)",
+        "links": [
+            "CDATA",
+            "Data"
+        ]
+    },
+    {
+        "name": "Orders_of_magnitude_(data)",
+        "links": [
+            "Fieldata"
+        ]
+    },
+    {
+        "name": "Dietrich_College_of_Humanities_and_Social_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_News",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Cognitive_Science_Society",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Embodied_cognitive_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_at_rest",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Science_fiction_film",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_cinema",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Salience_(neuroscience)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Vision_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Comparison_of_data_modeling_tools",
+        "links": [
+            "Teradata"
+        ]
+    },
+    {
+        "name": "List_of_systems_science_journals",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Technical_data_management_system",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "E-Science_librarianship",
+        "links": [
+            "Dataset",
+            "E-Science"
+        ]
+    },
+    {
+        "name": "Full-text_database",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Open_Archives_Initiative_Protocol_for_Metadata_Harvesting",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Online_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Research_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Heritage_science",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Preservation_metadata",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_flow",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Member_of_the_National_Academy_of_Sciences",
+        "links": [
+            "ScienceBlogs"
+        ]
+    },
+    {
+        "name": "Norwegian_Academy_of_Science_and_Letters",
+        "links": [
+            "Nanoscience",
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "EDA_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "User_Datagram_Protocol",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "On_the_Cruelty_of_Really_Teaching_Computer_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Data_access_layer",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "List_of_unsolved_problems_in_geoscience",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "National_Association_of_Geoscience_Teachers",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Concern_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Building_science",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Map_database_management",
+        "links": [
+            "Datacasting"
+        ]
+    },
+    {
+        "name": "Database_transaction_schedule",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "1715_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Sustainability_science",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "For_Inspiration_and_Recognition_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Datafly_algorithm",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "National_minimum_dataset",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Interdata_7/32_and_8/32",
+        "links": [
+            "Interdata"
+        ]
+    },
+    {
+        "name": "Applied_Data_Research",
+        "links": [
+            "DATACOM/DB"
+        ]
+    },
+    {
+        "name": "Paradox_(database)",
+        "links": [
+            "DataFlex"
+        ]
+    },
+    {
+        "name": "Green_data_center",
+        "links": [
+            "Datacenter"
+        ]
+    },
+    {
+        "name": "Open_Data_Protocol",
+        "links": [
+            "GData"
+        ]
+    },
+    {
+        "name": "IEEE_Life_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Hungary",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Data_activism",
+        "links": [
+            "Data",
+            "Datafication"
+        ]
+    },
+    {
+        "name": "Datagrams",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "French_Institute_for_Research_in_Computer_Science_and_Automation",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "Data_Reference_Model",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Web_science",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Bronx_High_School_of_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Behavioral_and_Brain_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Hitachi_Data_Systems",
+        "links": [
+            "ADATA",
+            "Datamation"
+        ]
+    },
+    {
+        "name": "American_Institute_of_Biological_Sciences",
+        "links": [
+            "BioScience"
+        ]
+    },
+    {
+        "name": "Science_Daily",
+        "links": [
+            "ScienceDaily"
+        ]
+    },
+    {
+        "name": "List_of_unsolved_problems_in_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Spatiotemporal_database",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_management_systems",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Classification_scheme_(information_science)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Neuroscience_Information_Framework",
+        "links": [
+            "Database",
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Brain_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "List_of_neuroscience_databases",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Journal_of_Integrative_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "The_Journal_of_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_envelopment_analysis",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Database_systems",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Session_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_Analysis_Expressions",
+        "links": [
+            "Database",
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Purdue_University_Department_of_Computer_Science",
+        "links": [
+            "Datatron"
+        ]
+    },
+    {
+        "name": "Royal_Swedish_Academy_of_Sciences",
+        "links": [
+            "Bioscience",
+            "Biosciences",
+            "Geoscience",
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Science_in_the_Renaissance",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_(disambiguation)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_society",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_&_Society",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "List_of_years_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "On_the_Connexion_of_the_Physical_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_&_Vie",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Europe",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_Management_System",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Social_conscience",
+        "links": [
+            "Conscience"
+        ]
+    },
+    {
+        "name": "Protocol_data_unit",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "Database_journalism",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Rollback_(data_management)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Source_data",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "2019_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "2020_in_science",
+        "links": [
+            "ScienceAlert",
+            "Science"
+        ]
+    },
+    {
+        "name": "Pure_Data",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Department_of_Computer_Science,_University_of_Manchester",
+        "links": [
+            "E-Science",
+            "E-science"
+        ]
+    },
+    {
+        "name": "Ibn_Sina_Academy_of_Medieval_Medicine_and_Sciences",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "FIELDATA",
+        "links": [
+            "Fieldata"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_China",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Chess_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "New_York_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Human-readable_medium_and_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Richard_Dawkins_Foundation_for_Reason_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Search_data_structure",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Neuroscience_Research_Program",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_India",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Academy_of_Sciences_and_Arts_of_the_Republika_Srpska",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Academy_of_Sciences_and_Arts_of_Bosnia_and_Herzegovina",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Academy_of_Sciences_of_Albania",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Armenian_National_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Hungarian_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Australian_Academy_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Israel_Academy_of_Sciences_and_Humanities",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Lithuanian_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Montenegrin_Academy_of_Sciences_and_Arts",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Pacific_Science_Association",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Slovenian_Academy_of_Sciences_and_Arts",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Society_for_Social_Studies_of_Science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Turkish_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Homi_Bhabha_Centre_for_Science_Education",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_History_Institute",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Animal_welfare_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_haven",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Database_right",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Neuroscience_and_sexual_orientation",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Neurosciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Master_of_Library_and_Information_Science",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Annals_of_the_New_York_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Nature_Reviews_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "International_Encyclopedia_of_Unified_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ingres_(database)",
+        "links": [
+            "DATACOM/DB"
+        ]
+    },
+    {
+        "name": "Zanvyl_Krieger_School_of_Arts_and_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Personality_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_park",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "European_Inter-University_Association_on_Society,_Science_and_Technology",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Philosophy_of_Science_Association",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Social_Studies_of_Science",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_&_Technology_Studies_(Journal)",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Database_search_engine",
+        "links": [
+            "Database",
+            "Databases"
+        ]
+    },
+    {
+        "name": "Science_outreach",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_festival",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Meta-data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_conferencing",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "British_Science_Association",
+        "links": [
+            "EuroScience"
+        ]
+    },
+    {
+        "name": "National_Institute_of_Mental_Health_and_Neurosciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_of_reading",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Nature_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Social_Science_Research_Network",
+        "links": [
+            "ScienceDirect",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Astrology_and_science",
+        "links": [
+            "Non-science",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "NASA/IPAC_Extragalactic_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Committee_on_Data_of_the_International_Science_Council",
+        "links": [
+            "CODATA",
+            "Data"
+        ]
+    },
+    {
+        "name": "Visual_DataFlex",
+        "links": [
+            "DataFlex"
+        ]
+    },
+    {
+        "name": "Data_access_object",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Computational_and_Systems_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "List_of_citizen_science_projects",
+        "links": [
+            "Anecdata.org"
+        ]
+    },
+    {
+        "name": "Australian_Citizen_Science_Association",
+        "links": [
+            "Anecdata.org"
+        ]
+    },
+    {
+        "name": "Citizen_Science_Association",
+        "links": [
+            "Anecdata.org"
+        ]
+    },
+    {
+        "name": "Impact_of_the_COVID-19_pandemic_on_science_and_technology",
+        "links": [
+            "ScienceUpFirst"
+        ]
+    },
+    {
+        "name": "Data_in_use",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Croatian_Academy_of_Sciences_and_Arts",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Journal_of_Cognitive_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "University_of_Florida_College_of_Liberal_Arts_and_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "European_Science_Foundation",
+        "links": [
+            "EuroScience"
+        ]
+    },
+    {
+        "name": "European_Geosciences_Union",
+        "links": [
+            "Biogeosciences",
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "International_Association_for_Mathematical_Geosciences",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "BBC_Science_Focus",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Project_of_History_of_Indian_Science,_Philosophy_and_Culture",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Australian_science_fiction",
+        "links": [
+            "Science-fiction"
+        ]
+    },
+    {
+        "name": "History_of_science_fiction",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "List_of_science_fiction_themes",
+        "links": [
+            "Protoscience"
+        ]
+    },
+    {
+        "name": "List_of_science-fiction_authors",
+        "links": [
+            "Science-fiction"
+        ]
+    },
+    {
+        "name": "Outline_of_science_fiction",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Rubber_science",
+        "links": [
+            "Pseudo-science"
+        ]
+    },
+    {
+        "name": "Science_fiction_films_in_India",
+        "links": [
+            "Science-fiction"
+        ]
+    },
+    {
+        "name": "Metadata_standard",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Chabot_Space_and_Science_Center",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Museum_of_Arts_and_Sciences_(Daytona_Beach)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Direct",
+        "links": [
+            "ScienceDirect"
+        ]
+    },
+    {
+        "name": "Data_stream_management_system",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Radcliffe_Science_Library",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Area,_Oxford",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Journal_for_General_Philosophy_of_Science",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Lists_of_IUCN_Red_List_data_deficient_species",
+        "links": [
+            "Chordata"
+        ]
+    },
+    {
+        "name": "Metascience_(journal)",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Anti-science",
+        "links": [
+            "Antiscience"
+        ]
+    },
+    {
+        "name": "Data_&_Marketing_Association",
+        "links": [
+            "Database",
+            "Datasheet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Internet_Adult_Film_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Internet_Theatre_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Grand_Comics_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Internet_Broadway_Database",
+        "links": [
+            "Database",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Internet_Off-Broadway_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "The_Big_Cartoon_DataBase",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Firebird_(database_server)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Alpine_Data_Labs",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Aerospike_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Aster_Data_Systems",
+        "links": [
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Distributed_data_processing",
+        "links": [
+            "Datamation"
+        ]
+    },
+    {
+        "name": "Pool_(computer_science)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Coverage_data",
+        "links": [
+            "Geodatabase"
+        ]
+    },
+    {
+        "name": "Database_software",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Discovery_Science_(European_TV_channel)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Data_base_management_system",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "United_Kingdom_National_DNA_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Dataveillance",
+        "links": [
+            "Dataism"
+        ]
+    },
+    {
+        "name": "Data_&_Society",
+        "links": [
+            "Database",
+            "Datasheet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Centralized_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_grid",
+        "links": [
+            "Data",
+            "Dataset",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Meta_data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "COVID-19_datasets",
+        "links": [
+            "ScienceUpFirst"
+        ]
+    },
+    {
+        "name": "2023_in_science",
+        "links": [
+            "Science",
+            "Metascience",
+            "Neuroscience",
+            "ScienceAlert",
+            "LiveScience"
+        ]
+    },
+    {
+        "name": "2025_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "2024_in_science",
+        "links": [
+            "Science",
+            "ScienceAlert",
+            "ScienceNews"
+        ]
+    },
+    {
+        "name": "2021_in_science",
+        "links": [
+            "IScience",
+            "ScienceAlert",
+            "Metascience",
+            "Science",
+            "IFLScience"
+        ]
+    },
+    {
+        "name": "2022_in_science",
+        "links": [
+            "ScienceAlert",
+            "Metadata",
+            "Metascience",
+            "Science",
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Chinese_Academy_of_Medical_Sciences_COVID-19_vaccine",
+        "links": [
+            "ScienceUpFirst"
+        ]
+    },
+    {
+        "name": "Levine_Science_Research_Center",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "E-science",
+        "links": [
+            "E-Science"
+        ]
+    },
+    {
+        "name": "List_of_e-Science_infrastructures",
+        "links": [
+            "E-Science"
+        ]
+    },
+    {
+        "name": "Science_2.0",
+        "links": [
+            "EScience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Diseases_Database",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "PASCAL_(database)",
+        "links": [
+            "Database",
+            "Science"
+        ]
+    },
+    {
+        "name": "National_databases_of_United_States_persons",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Investigative_Data_Warehouse",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Google_Public_Data_Explorer",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Vulnerability_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Mineralization_(soil_science)",
+        "links": [
+            "Biogeosciences"
+        ]
+    },
+    {
+        "name": "Data_capitalism",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Indexed_Database_API",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Shanti_Swarup_Bhatnagar_Prize_for_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Preregistration_(science)",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Chien_Hsin_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "National_Taiwan_University_of_Science_and_Technology",
+        "links": [
+            "Databases"
+        ]
+    },
+    {
+        "name": "Helen_Wills_Neuroscience_Institute",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Life_Sciences_Institute",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Molecular_and_Behavioral_Neuroscience_Institute",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Chief_data_officer",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Gordon_Institute_of_Business_Science",
+        "links": [
+            "Datatec"
+        ]
+    },
+    {
+        "name": "Conscience_vote",
+        "links": [
+            "Conscience"
+        ]
+    },
+    {
+        "name": "National_Geophysical_Data_Center",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data-informed_decision-making",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Outline_of_actuarial_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Tilia_cordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Gmelin_database",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Science_Week",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Color_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Planetary_and_Space_Science",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Mullard_Space_Science_Laboratory",
+        "links": [
+            "E-Science"
+        ]
+    },
+    {
+        "name": "Bachelor_of_Applied_Arts_and_Sciences",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Energy_Citations_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_classification_(data_management)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Java_Metadata_Interface",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Nordic_Data_Grid_Facility",
+        "links": [
+            "EScience"
+        ]
+    },
+    {
+        "name": "Measurement_Science_and_Technology",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Data_(information)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Amsterdam_Science_Park",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Oracle_Zero_Data_Loss_Recovery_Appliance",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Cloud_Data_Management_Interface",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_center_management",
+        "links": [
+            "Datamation"
+        ]
+    },
+    {
+        "name": "Lightning_Memory-Mapped_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "ScienceBlogs",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Binary_Modular_Dataflow_Machine",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Web_SQL_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_warehouse_appliance",
+        "links": [
+            "Database",
+            "Dataflow",
+            "Metadata",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "ASP.NET_Dynamic_Data",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_scalability",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_striping",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Machine-generated_data",
+        "links": [
+            "Dataset",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datagram_Transport_Layer_Security",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "RIKEN_Brain_Science_Institute",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_General_Extended_BASIC",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Metadata_(CLI)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Reification_(computer_science)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Iran_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Chinese_Academy_of_Geological_Sciences",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Earth_in_science_fiction",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "GeoBase_(geospatial_data)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Neuroscience_&_Biobehavioral_Reviews",
+        "links": [
+            "Nanoneuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Nova_Science_Publishers",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Neuroscience_(journal)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_signaling_rate",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Institute_of_Noetic_Sciences",
+        "links": [
+            "Antiscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Social_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Nova_ScienceNow",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_Sanity",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science,_Order,_and_Creativity",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Bento_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Euglossa_cordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "List_of_international_databases_on_individual_student_achievement_tests",
+        "links": [
+            "Databases",
+            "Science"
+        ]
+    },
+    {
+        "name": "National_Center_for_Science_Education",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Vega_Science_Trust",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "European_Journal_of_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_sheet",
+        "links": [
+            "Datasheet"
+        ]
+    },
+    {
+        "name": "Vector_database",
+        "links": [
+            "DataStax",
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_query",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_definition_specification",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "German_National_Library_of_Science_and_Technology",
+        "links": [
+            "DataCite"
+        ]
+    },
+    {
+        "name": "Albert_Einstein_World_Award_of_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Open_data_portal",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "British_Oceanographic_Data_Centre",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "List_of_open_government_data_sites",
+        "links": [
+            "Data.gov"
+        ]
+    },
+    {
+        "name": "Finnish_Academy_of_Science_and_Letters",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Data_entry",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Uncertain_data",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "YAGO_(database)",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Center_for_Neural_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Translational_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Allen_Institute_for_Brain_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "British_Neuroscience_Association",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Federation_of_European_Neuroscience_Societies",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Nanoneuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "List_of_neuroscience_journals",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_Act_(European_Union)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_Governance_Act",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Microdata_(statistics)",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Reptile_Database",
+        "links": [
+            "Database",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Generic_Model_Organism_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Death_Domain_database",
+        "links": [
+            "Chordata"
+        ]
+    },
+    {
+        "name": "Human_Protein_Reference_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "SABIO-Reaction_Kinetics_Database",
+        "links": [
+            "Database",
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "BioCyc_database_collection",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Intergovernmental_Science-Policy_Platform_on_Biodiversity_and_Ecosystem_Services",
+        "links": [
+            "ScienceDaily"
+        ]
+    },
+    {
+        "name": "Soliton_model_in_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Annual_Review_of_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Metadatabase",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Elsevier_Science_Direct",
+        "links": [
+            "ScienceDirect"
+        ]
+    },
+    {
+        "name": "Genomes_OnLine_Database",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "National_Science_and_Technology_Development_Agency",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_(journal)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "International_Journal_of_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Nutritional_Neuroscience_(journal)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Particle_Data_Group",
+        "links": [
+            "CODATA"
+        ]
+    },
+    {
+        "name": "Geobiology_(pseudoscience)",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Max_Planck_Institute_for_Multidisciplinary_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Austrian_Science_Fund",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Pakistan_Science_Foundation",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Fund_of_the_Republic_of_Serbia",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Nexus_(data_format)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Digest",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Database_of_Molecular_Motions",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Domine_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Bioscience,_Biotechnology,_and_Biochemistry",
+        "links": [
+            "Bioscience"
+        ]
+    },
+    {
+        "name": "REBASE_(database)",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Crystallography_Open_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Crystallographic_database",
+        "links": [
+            "Database",
+            "Databases"
+        ]
+    },
+    {
+        "name": "Commodore_Datasette",
+        "links": [
+            "Data",
+            "Data8"
+        ]
+    },
+    {
+        "name": "Data_Storage_Technology",
+        "links": [
+            "Data8"
+        ]
+    },
+    {
+        "name": "Data_(moth)",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Data_(Star_Trek)",
+        "links": [
+            "Datalore"
+        ]
+    },
+    {
+        "name": "ActiveX_Data_Objects",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Conformational_dynamics_data_bank",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Datasheets.com",
+        "links": [
+            "Datasheet"
+        ]
+    },
+    {
+        "name": "International_Society_of_the_Learning_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_fabrication",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "EPSG_Geodetic_Parameter_Dataset",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Christianity_and_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_the_Catholic_Church",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_for_the_People",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Islamic_attitudes_towards_science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "University_of_Arkansas_for_Medical_Sciences",
+        "links": [
+            "Neurosciences"
+        ]
+    },
+    {
+        "name": "Khoury_College_of_Computer_Sciences",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Master_of_Science_in_Business_Analytics",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Seahorse_Bioscience",
+        "links": [
+            "Bioscience"
+        ]
+    },
+    {
+        "name": "Buffalo_Museum_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_dump",
+        "links": [
+            "Database",
+            "Databases"
+        ]
+    },
+    {
+        "name": "National_Hydrography_Dataset",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Open_Database_License",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "National_Datacast",
+        "links": [
+            "Datacasting"
+        ]
+    },
+    {
+        "name": "Discovery_Science_(Indian_TV_channel)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Treasure_Valley_Mathematics_and_Science_Center",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Denver_Museum_of_Nature_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Central",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Kentucky_Science_Center",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Soil_Science_Society_of_America",
+        "links": [
+            "Dataset"
+        ]
+    },
+    {
+        "name": "Oregon_Museum_of_Science_and_Industry",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Texas_Neurosciences_Institute",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Papilio_multicaudata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Master_data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Dimension_(metadata)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Definitive_diagnostic_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_Infrastructure_Building_Blocks",
+        "links": [
+            "Datanet"
+        ]
+    },
+    {
+        "name": "Dummy_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Global_Research_Identifier_Database",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata",
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Datasheets",
+        "links": [
+            "Datasheet"
+        ]
+    },
+    {
+        "name": "Diablo_Data_Systems",
+        "links": [
+            "Datapoint",
+            "Dataproducts",
+            "YE-Data"
+        ]
+    },
+    {
+        "name": "Data_Disc",
+        "links": [
+            "Datacopy",
+            "Datapoint",
+            "Dataproducts",
+            "YE-Data"
+        ]
+    },
+    {
+        "name": "Alternative_data_(finance)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Register_of_data_controllers",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_drilling",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Comparison_of_database_administration_tools",
+        "links": [
+            "Database",
+            "Datasource",
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Database_queries",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Index_of_engineering_science_and_mechanics_articles",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "Ministry_of_Science_and_Higher_Education_(Poland)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Forensic_data_analysis",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "GUN_(graph_database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Schema-agnostic_databases",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Ministry_of_Science,_Research_and_Technology_(Iran)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Shaheed_Zulfikar_Ali_Bhutto_Institute_of_Science_and_Technology",
+        "links": [
+            "Biosciences"
+        ]
+    },
+    {
+        "name": "Phi_Beta_Kappa_Award_in_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "R/dataisbeautiful",
+        "links": [
+            "R/science"
+        ]
+    },
+    {
+        "name": "R/science",
+        "links": [
+            "R/dataisbeautiful"
+        ]
+    },
+    {
+        "name": "New_York_University_Graduate_School_of_Arts_and_Science",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Analog_Science_Fiction_and_Fact",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "The_Intelligent_Man's_Guide_to_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Institute_of_Psychiatry,_Psychology_and_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_and_Engineering_South",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "NAS_Award_in_Chemical_Sciences",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "The_Leon_M._Goldstein_High_School_for_the_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Science_Network",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "AP_Computer_Science_Principles",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "UCL_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "List_of_data_references_for_chemical_elements",
+        "links": [
+            "Datasheet"
+        ]
+    },
+    {
+        "name": "Southern_California_University_of_Health_Sciences",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Queens_High_School_for_the_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "New_College_of_Interdisciplinary_Arts_and_Sciences",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Carney_Institute_for_Brain_Science",
+        "links": [
+            "Neuroscience",
+            "ScienceDaily"
+        ]
+    },
+    {
+        "name": "Russian_Academy_of_Natural_Sciences",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Imply_Data",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Collegiate_School_of_Medicine_and_Bioscience",
+        "links": [
+            "Bioscience"
+        ]
+    },
+    {
+        "name": "McGill_University_Faculty_of_Medicine_and_Health_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Office_for_Science_and_Society",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Michigan_State_University_College_of_Natural_Science",
+        "links": [
+            "Non-science"
+        ]
+    },
+    {
+        "name": "Visual_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "East_China_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "University_of_Rochester_College_of_Arts_Sciences_and_Engineering",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Dietrich_School_of_Arts_and_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "UCLA_Phonological_Segment_Inventory_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "New_Orleans_Charter_Science_and_Mathematics_High_School",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Tulane_University_School_of_Science_and_Engineering",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "University_of_Toronto_Faculty_of_Arts_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "University_of_Minnesota_College_of_Biological_Sciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Notre_Dame_College_of_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Palo_(OLAP_database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_orientation",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Datastream",
+        "links": [
+            "Dataflow"
+        ]
+    },
+    {
+        "name": "Dependency_theory_(database_theory)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Current_database",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Viewdata",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Cellular_digital_packet_data",
+        "links": [
+            "DataTAC"
+        ]
+    },
+    {
+        "name": "Circuit_Switched_Data",
+        "links": [
+            "Data",
+            "DataTAC"
+        ]
+    },
+    {
+        "name": "Extended_Display_Identification_Data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Extended_Data_Services",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Ancillary_data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Auditory_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Portable_Database_Image",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Dimension_Data",
+        "links": [
+            "Datatec"
+        ]
+    },
+    {
+        "name": "Data_Catalog_Vocabulary",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Software_Package_Data_Exchange",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Science_gateway",
+        "links": [
+            "E-Science"
+        ]
+    },
+    {
+        "name": "Spatial_data_infrastructure",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "CA_Datacom",
+        "links": [
+            "DATACOM/DB"
+        ]
+    },
+    {
+        "name": "Teradata_Geospatial",
+        "links": [
+            "Teradata"
+        ]
+    },
+    {
+        "name": "Bivariate_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data-driven",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Archaeology_Data_Service",
+        "links": [
+            "EScience",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "ESO/ST-ECF_Science_Archive_Facility",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "SeaBASS_(data_archive)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "DatalogZ",
+        "links": [
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Disjunctive_Datalog",
+        "links": [
+            "Datalog"
+        ]
+    },
+    {
+        "name": "Service_Data_Objects",
+        "links": [
+            "Meta-data"
+        ]
+    },
+    {
+        "name": "Dataspace",
+        "links": [
+            "Database",
+            "Dataspaces",
+            "Hyperdata",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Economics_of_open_science",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Variable_data_printing",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Microsoft_Data_Access_Components",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_&_Knowledge_Engineering",
+        "links": [
+            "Database",
+            "Datasheet",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_Language_Interface",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "IBM_Data_Magazine",
+        "links": [
+            "UniData"
+        ]
+    },
+    {
+        "name": "Virtual_private_database",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Comparison_of_MySQL_database_engines",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Enterprise_data_management",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Composite_index_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Aristotle_Metadata_Registry",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "List_of_2017_March_for_Science_locations",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Geoscience_Australia",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Communications_data",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Vehicle_location_data",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Titan_traffic_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Draft_Communications_Data_Bill",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Datapoint_3300",
+        "links": [
+            "Datapoint"
+        ]
+    },
+    {
+        "name": "Database_Management",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Data_version_control",
+        "links": [
+            "Data",
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Vanish_(computer_science)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_economy",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Habeas_data",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Data_care",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Voter_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Behavioral_Neuroscience_(journal)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Date_(metadata)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Indicator_(metadata)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Time_(metadata)",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Taxus_cuspidata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Dataplay",
+        "links": [
+            "DataPlay"
+        ]
+    },
+    {
+        "name": "Garbage_(computer_science)",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "A-DATA",
+        "links": [
+            "ADATA"
+        ]
+    },
+    {
+        "name": "Configuration_management_database",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Datanglong",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Data_base",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "VINITI_Database_RAS",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "E-social_science",
+        "links": [
+            "E-science"
+        ]
+    },
+    {
+        "name": "Morrill_Science_Center",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Brain_Imaging_Data_Structure",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Data_Transformation_Services",
+        "links": [
+            "Database",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Data_divide",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Back-end_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Naked_Science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Cost_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Naval_Tactical_Data_System",
+        "links": [
+            "DATAR"
+        ]
+    },
+    {
+        "name": "University_of_Manchester_Faculty_of_Science_and_Engineering",
+        "links": [
+            "Neurosciences"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Brazil",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Superbase_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Evolutionary_database_design",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Intelligent_design_and_science",
+        "links": [
+            "Data",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Center_for_Science_and_Culture",
+        "links": [
+            "BioScience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Truth_in_Science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Theistic_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_&_Theology_News",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Pseudo-science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Bruce_Museum_of_Arts_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Prize_of_the_Foundation_for_Polish_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Journal_of_the_History_of_the_Neurosciences",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "International_Day_of_Conscience",
+        "links": [
+            "Conscience"
+        ]
+    },
+    {
+        "name": "ElectroData_Corporation",
+        "links": [
+            "Datatron"
+        ]
+    },
+    {
+        "name": "DataBlade",
+        "links": [
+            "Datatype"
+        ]
+    },
+    {
+        "name": "IP_datagram",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "Datalight_ROM-DOS",
+        "links": [
+            "Datalight"
+        ]
+    },
+    {
+        "name": "Sudan_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Folk_science",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Indian_influence_on_Islamic_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science,_technology,_society_and_environment_education",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Pseudoscience",
+            "Science",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Limiting_case_(philosophy_of_science)",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Science_and_Theology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Quakers_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Uncertain_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Stephen_Hawking_Medal_for_Science_Communication",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "California_Council_on_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Water_maze_(neuroscience)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Mathematical_Biosciences",
+        "links": [
+            "Bioscience",
+            "Biosciences"
+        ]
+    },
+    {
+        "name": "Finnish_Society_of_Sciences_and_Letters",
+        "links": [
+            "Biosciences"
+        ]
+    },
+    {
+        "name": "EuroScience",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_&_Diplomacy",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "HIV_Drug_Resistance_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Atmospheric_chemistry_observational_databases",
+        "links": [
+            "Database",
+            "Databases"
+        ]
+    },
+    {
+        "name": "Computer_science_in_sport",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Medicine_&_Science_in_Sports_&_Exercise",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Database_encryption",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Science_&_Justice",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Federal_Geographic_Data_Committee",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Tombstone_(data_store)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Database_manager",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Science_Friday",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_fiction_podcast",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Express_Data_Path",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Database_management_program",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "List_of_letters_used_in_mathematics,_science,_and_engineering",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Latin_letters_used_in_mathematics,_science,_and_engineering",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Datatrieve",
+        "links": [
+            "DATATRIEVE"
+        ]
+    },
+    {
+        "name": "Data_culture",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Datacite",
+        "links": [
+            "DataCite"
+        ]
+    },
+    {
+        "name": "Science.gov",
+        "links": [
+            "Database",
+            "WorldWideScience"
+        ]
+    },
+    {
+        "name": "International_Union_of_Anthropological_and_Ethnological_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Open_data_in_the_United_Kingdom",
+        "links": [
+            "Data.gov",
+            "Data.gov.uk"
+        ]
+    },
+    {
+        "name": "OpenDataSoft",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Open_Data_Now",
+        "links": [
+            "Data.gov"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Jordan",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "ISC_World_Data_System",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Paradata",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Net.Data",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Jet_Data_Access_Objects",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Mathematical_Geosciences",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Idealization_(philosophy_of_science)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "India_Science_Award",
+        "links": [
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Nonscience",
+        "links": [
+            "Non-science",
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Science_of_Discworld",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Northeast_Conference_on_Science_and_Skepticism",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Engineering_&_Science_Education_Journal",
+        "links": [
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Carol_Martin_Gatton_Academy_of_Mathematics_and_Science_in_Kentucky",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "TMS_(entertainment_data)",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Range_query_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Process-data_diagram",
+        "links": [
+            "Data"
+        ]
+    },
+    {
+        "name": "Science_of_science",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Australian_National_Bibliographic_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Energy_Science_and_Technology_Database",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Materials_Science_Citation_Index",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Florey_Institute_of_Neuroscience_and_Mental_Health",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Source_Code_in_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Master_in_Data_Science",
+        "links": [
+            "Data",
+            "Database"
+        ]
+    },
+    {
+        "name": "Berkeley_Initiative_for_Transparency_in_the_Social_Sciences",
+        "links": [
+            "Metascience"
+        ]
+    },
+    {
+        "name": "Virginia_Tech_College_of_Science",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Repression_of_science_in_the_Soviet_Union",
+        "links": [
+            "Antiscience"
+        ]
+    },
+    {
+        "name": "The_Republican_War_on_Science",
+        "links": [
+            "Antiscience",
+            "ScienceBlogs"
+        ]
+    },
+    {
+        "name": "Index_of_branches_of_science",
+        "links": [
+            "Metascience",
+            "Neuroscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "1807_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1665_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1909_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1660_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Bulletin",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science.tv",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_in_the_Soul",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Oxford_Book_of_Modern_Science_Writing",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Houttuynia_cordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Belgium",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Iceland",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Ivory_Coast",
+        "links": [
+            "Geosciences"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Indonesia",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_the_Netherlands",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_and_technology_in_Portugal",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Royal_Victoria_Gallery_for_the_Encouragement_of_Practical_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1875_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1894_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1895_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1896_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1913_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1904_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1914_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1917_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1940_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Romanian_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Institute_of_Science_and_Technology_Austria",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_and_Engineering_Ethics",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "CPA_Donald_O._Hebb_Award_for_Distinguished_Contributions_to_Psychology_as_a_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Data_collaboratives",
+        "links": [
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "South_African_Institute_for_Heritage_Science_and_Conservation",
+        "links": [
+            "Datatec"
+        ]
+    },
+    {
+        "name": "Netherlands_Institute_for_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "European_Pollen_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Integrated_Data_Viewer",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Thailand_Graduate_Institute_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Hong_Kong_University_of_Science_and_Technology_Library",
+        "links": [
+            "Dataverse"
+        ]
+    },
+    {
+        "name": "Management_&_Science_University",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "John_Monash_Science_School",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "Centre_for_Nanosciences_and_Nanotechnologies",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "Paris-Saclay_Faculty_of_Sciences",
+        "links": [
+            "Nanoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "NUS_High_School_of_Math_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "College_of_Chemical_Sciences",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Frontiers_of_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education_and_Science_(Bulgaria)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Decision_Data",
+        "links": [
+            "Dataproducts"
+        ]
+    },
+    {
+        "name": "Science_technician",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "National_Museum_of_Nature_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "East_Kentucky_Science_Center",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Nagoya_City_Science_Museum",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Thinktank,_Birmingham_Science_Museum",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Antiquarian_science_books",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Information_&_eGovernment_Authority_-_Bahrain_Open_Data_Portal",
+        "links": [
+            "Conscience",
+            "Data",
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Nearby_Stars_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "NASA_large_strategic_science_missions",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Roller_Coaster_DataBase",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Svensk_mediedatabas",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Viola_pedata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Canmore_(database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Teraco_Data_Environments",
+        "links": [
+            "Datatec"
+        ]
+    },
+    {
+        "name": "National_Institute_of_Neurological_Sciences",
+        "links": [
+            "Neurosciences"
+        ]
+    },
+    {
+        "name": "Health_Sciences_Centre_(Winnipeg)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Science_City,_Kolkata",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Datalight_ROM-DOS_6.22",
+        "links": [
+            "Datalight"
+        ]
+    },
+    {
+        "name": "Datagram_service",
+        "links": [
+            "Datagram"
+        ]
+    },
+    {
+        "name": "1850_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Parody_science",
+        "links": [
+            "Pseudoscience",
+            "Science"
+        ]
+    },
+    {
+        "name": "Arachne_(archaeological_database)",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "WorldWideScience",
+        "links": [
+            "Database",
+            "Science.gov"
+        ]
+    },
+    {
+        "name": "Slow_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Developmental_cognitive_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Okinawa_Institute_of_Science_and_Technology",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "International_Science_Olympiad",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "American_University_of_Science_and_Technology",
+        "links": [
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education_and_Science_(Kyrgyzstan)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education_and_Science_(North_Macedonia)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "MARA_Junior_Science_College",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education_and_Science_(Somaliland)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "General_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Pakistan_Academy_of_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Engineering_and_Science_Education_Program_(Philippines)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Biology_and_political_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "National_Institutes_of_Natural_Sciences,_Japan",
+        "links": [
+            "Bioscience"
+        ]
+    },
+    {
+        "name": "International_Journal_of_Earth_Sciences",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "1838_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "2005_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "ACS_Chemical_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Jungian_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Ki_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Social_Cognitive_and_Affective_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Asia_Pacific_Network_of_Science_and_Technology_Centres",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Journal_of_Neuroscience,_Psychology,_and_Economics",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Institute_of_Science,_Banaras_Hindu_University",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Patuakhali_Science_and_Technology_University",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Journal_of_Experimental_Nanoscience",
+        "links": [
+            "Nanoscience"
+        ]
+    },
+    {
+        "name": "Annual_Review_of_Vision_Science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Aquatic_Sciences_and_Fisheries_Abstracts",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Sappinia_pedata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "1546_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Oklahoma_State_University_College_of_Arts_and_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_of_yoga",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "God_in_the_Age_of_Science?",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Conscience_(disambiguation)",
+        "links": [
+            "Conscience"
+        ]
+    },
+    {
+        "name": "The_Crisis_of_European_Sciences_and_Transcendental_Phenomenology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "The_Triumph_of_Science_over_Death",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_book",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Listener_letter_on_science",
+        "links": [
+            "Antiscience"
+        ]
+    },
+    {
+        "name": "Maclura_tricuspidata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Prunus_subcordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Pyrus_cordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Quararibea_cordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Olea_europaea_subsp._cuspidata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Cooperative_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Datalogics",
+        "links": [
+            "Datalogix"
+        ]
+    },
+    {
+        "name": "Federal_Institute_for_Geosciences_and_Natural_Resources",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Petrological_Database_of_the_Ocean_Floor",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "1763_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "College_of_arts_and_sciences",
+        "links": [
+            "Science",
+            "Sciences"
+        ]
+    },
+    {
+        "name": "International_Science_Festival_in_Gothenburg",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_National_Honor_Society",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "International_Union_of_Prehistoric_and_Protohistoric_Sciences",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "National_Academy_of_Sciences_of_Sri_Lanka",
+        "links": [
+            "Science",
+            "Sciences"
+        ]
+    },
+    {
+        "name": "Kosova_Academy_of_Sciences_and_Arts",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Museum_Data_Service",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Science_in_science_fiction",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Conscience_clause_in_medicine_in_the_United_States",
+        "links": [
+            "Conscience"
+        ]
+    },
+    {
+        "name": "Neural_science",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "European_Climate_Assessment_and_Dataset",
+        "links": [
+            "Metadata"
+        ]
+    },
+    {
+        "name": "Positive_neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Bad_Science_(Goldacre_book)",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Global_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "1951_in_science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_&_Industry_Museum",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Popular_science_(disambiguation)",
+        "links": [
+            "Antiscience",
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "List_of_popular_science_mass_media_outlets",
+        "links": [
+            "LiveScience",
+            "ScienceBlogs"
+        ]
+    },
+    {
+        "name": "Science_&_Entertainment_Exchange",
+        "links": [
+            "Antiscience",
+            "Metascience",
+            "Non-science",
+            "Protoscience",
+            "Pseudoscience",
+            "Technoscience"
+        ]
+    },
+    {
+        "name": "Cognitive_Neuroscience_(journal)",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Indian_Institute_of_Science_Education_and_Research,_Thiruvananthapuram",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Science_Party_(Australia)",
+        "links": [
+            "Dataism"
+        ]
+    },
+    {
+        "name": "Right-wing_antiscience",
+        "links": [
+            "Antiscience"
+        ]
+    },
+    {
+        "name": "Rundata",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Cordia_subcordata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Index_of_cognitive_science_articles",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "2010s_in_science_and_technology",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "History_of_science_and_technology_in_the_People's_Republic_of_China",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Australasian_Underwater_Cultural_Heritage_Database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Institute_of_Biophysics,_Chinese_Academy_of_Sciences",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Pastoral_science_fiction",
+        "links": [
+            "Science-fiction"
+        ]
+    },
+    {
+        "name": "Online_databases",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Megachile_rotundata",
+        "links": [
+            "Wikidata"
+        ]
+    },
+    {
+        "name": "Spanish_language_in_science_and_technology",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Natural_Science_Tripos",
+        "links": [
+            "Geoscience"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education,_Science,_Culture_and_Sports_(Armenia)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Science,_ICT_and_Future_Planning",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Education_and_Science_(Mongolia)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Ministry_of_Science,_Technology_and_Environment_(Cuba)",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "List_of_diagnoses_characterized_as_pseudoscience",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Journal_of_Clinical_Neuroscience",
+        "links": [
+            "Neuroscience"
+        ]
+    },
+    {
+        "name": "Georgia_Academy_of_Arts,_Mathematics,_Engineering_and_Science",
+        "links": [
+            "Science"
+        ]
+    },
+    {
+        "name": "Michael_Brooks_(science_writer)",
+        "links": [
+            "Pseudoscience"
+        ]
+    },
+    {
+        "name": "Cross-strait_language_database",
+        "links": [
+            "Database"
+        ]
+    },
+    {
+        "name": "Changchun_University_of_Science_and_Technology",
+        "links": [
+            "Science"
+        ]
+    }
+]
