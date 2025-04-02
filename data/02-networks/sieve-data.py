@@ -20,11 +20,14 @@ def lookup_name(id: int) -> str:
 
 class Page:
         
-    def __init__(self, name:str, links:list[str]=[]):
+    def __init__(self, name:str, links:list[str]=[], categories:list[str]=[]):
         self.name:int = register_name(name)
         self.links:list[int] = []
+        self.categories: list[int] = []
         for link in links:
             self.links.append(register_name(link))
+        for category in categories:
+            self.categories.append(register_name(category))
     
     def reduce_links(self):
         self.links = [link for link in self.links if lookup_name(link) in page_map.keys()]
@@ -34,6 +37,9 @@ class Page:
             "name": lookup_name(self.name),
             "links": [
                 lookup_name(link) for link in self.links
+            ],
+            "categories": [
+                lookup_name(category) for category in self.categories
             ]
         }
         
@@ -41,8 +47,8 @@ class Page:
 page_map: dict[str, Page] = {}
 page_name_map: dict[int, str] = {}
 page_name_reverse_map: dict[str, int]= {}
-parts_directory: str = "./Notebooks/data/02-networks/parts/"
-graph_directory: str = "./Notebooks/data/02-networks/"
+parts_directory: str = "./data/02-networks/parts/"
+graph_directory: str = "./data/02-networks/"
 encoding: str = 'utf-8'
 
 def interpret_json_content(content: str):

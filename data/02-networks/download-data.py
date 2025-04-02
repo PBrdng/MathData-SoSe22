@@ -1,6 +1,6 @@
 from concurrent.futures import ThreadPoolExecutor
 from urllib import request
-from json import loads, dump, load, dumps
+from json import loads, dump, load
 from time import time
 from os import listdir
 from re import match
@@ -14,11 +14,13 @@ def resolve(name: str):
     if _name in page_map.keys() or ":" in _name:
         return
     page: Page = Page(_name)
-    url: str = "https://en.wikipedia.org/w/api.php?action=parse&page=" + _name + "&prop=links&format=json"
+    url: str = "https://en.wikipedia.org/w/api.php?action=parse&page=" + _name + "&prop=links|categories&format=json"
     obj = loads(request.urlopen(url).read())
     for link in obj["parse"]["links"]:
         if ':' not in link["*"]:
             page.add_link(link["*"])
+    for category in obj["parse"]["categories"]:
+        page.add_category(category["*"])
     page_map[_name] = page
     new_pages.append(page)
     return page
@@ -39,17 +41,23 @@ def lookup_name(id: int) -> str:
 
 class Page:
         
-    def __init__(self, name:str, links:list[str]=[]):
+    def __init__(self, name:str, links:list[str]=[], categories:list[str]=[]):
         self.name:int = register_name(name)
         self.links:list[int] = []
+        self.categories: list[int] = []
         self._unresolved_pages: list[int] = []
         for link in links:
             self.add_link(link)
+        for category in categories:
+            self.add_category(category)
     
     def add_link(self, name: str):
         link_id = register_name(name)
         self._unresolved_pages.append(link_id)
         self.links.append(link_id)
+    
+    def add_category(self, name: str):
+        self.categories.append(register_name(name))
     
     def is_resolved(self) -> bool:
         return len(self._unresolved_pages) == 0
@@ -68,9 +76,11 @@ class Page:
     
     def json_dict(self):
         links = [lookup_name(id) for id in self.links]
+        categories = [lookup_name(id) for id in self.categories]
         return {
                     "links": links,
-                    "name": lookup_name(self.name)
+                    "name": lookup_name(self.name),
+                    "categories": categories
                 }
         
 
@@ -79,7 +89,7 @@ page_name_map: dict[int, str] = {}
 page_name_reverse_map: dict[str, int]= {}
 new_pages: list[Page] = []
 unresolved_pages: list[Page] = [resolve("Data_science")]
-parts_directory: str = "./Notebooks/data/02-networks/parts/"
+parts_directory: str = "./data/02-networks/parts/"
 encoding: str = 'utf-8'
 MIN_PAGES_PER_JSON_FILE: int = 5000
 JSON_FILES_PER_ZIP: int = 20
