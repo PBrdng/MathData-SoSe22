@@ -79,3 +79,49 @@ Pkg.add(PackageSpec(name="Ripserer", version="0.16.12")) # https://github.com/mt
 Pkg.add(PackageSpec(name="TSne", version="1.3.0")) # https://github.com/lejon/TSne.jl
 Pkg.add(PackageSpec(name="StatsBase", version="0.34.4")) # https://github.com/JuliaStats/StatsBase.jl
 Pkg.add(PackageSpec(name="PlotlyJS", version="0.18.5")) # https://github.com/JuliaPlots/PlotlyJS.jl
+
+# 01_Ex4b
+Pkg.activate(joinpath(confPath, "01_Ex4b"))
+Pkg.add(PackageSpec(name="LinearAlgebra", version="1.12.0")) # https://github.com/JuliaLang/LinearAlgebra.jl
+
+# 02_Ex4
+Pkg.activate(joinpath(confPath, "02_Ex4"))
+Pkg.add(PackageSpec(name="Distributions", version="0.25.118")) # https://github.com/JuliaStats/Distributions.jl
+Pkg.add(PackageSpec(name="StatsPlots", version="0.15.7")) # https://github.com/JuliaPlots/StatsPlots.jl
+
+# 04_Ex4
+Pkg.activate(joinpath(confPath, "04_Ex4"))
+Pkg.add(PackageSpec(name="LinearAlgebra", version="1.12.0")) # https://github.com/JuliaLang/LinearAlgebra.jl
+Pkg.add(PackageSpec(name="SparseArrays", version="1.12.0")) # https://github.com/JuliaSparse/SparseArrays.jl
+Pkg.add(PackageSpec(name="Graphs", version="1.12.0")) # https://github.com/JuliaGraphs/Graphs.jl
+Pkg.add(PackageSpec(name="Plots", version="1.40.9")) # https://github.com/JuliaPlots/Plots.jl
+Pkg.add(PackageSpec(name="GraphPlot", version="0.6.1")) # https://github.com/JuliaGraphs/GraphPlot.jl
+Pkg.add(PackageSpec(name="JSON3", version="1.14.1")) # https://github.com/quinnj/JSON3.jl
+Pkg.add(PackageSpec(name="Compose", version="0.9.2")) # https://github.com/GiovineItalia/Compose.jl
+Pkg.add(PackageSpec(name="Cairo", version="1.1.1")) # https://github.com/GiovineItalia/Compose.jl
+Pkg.add(PackageSpec(name="Fontconfig", version="0.4.0")) # https://github.com/JuliaGraphics/Fontconfig.jl
+Pkg.add(PackageSpec(name="FileIO", version="1.17.0")) # https://github.com/JuliaIO/FileIO.jl
+Pkg.add(PackageSpec(name="Images", version="0.26.2")) # https://github.com/JuliaImages/Images.jl
+Pkg.add(PackageSpec(name="IJulia", version="1.26.0")) # https://github.com/JuliaLang/IJulia.jl
+
+# 05_Ex4
+Pkg.activate(joinpath(confPath, "05_Ex4"))
+Pkg.add(PackageSpec(name="LinearAlgebra", version="1.12.0")) # https://github.com/JuliaLang/LinearAlgebra.jl
+Pkg.add(PackageSpec(name="Graphs", version="1.12.0")) # https://github.com/JuliaGraphs/Graphs.jl
+Pkg.add(PackageSpec(name="GraphPlot", version="0.6.1")) # https://github.com/JuliaGraphs/GraphPlot.jl
+Pkg.add(PackageSpec(name="Plots", version="1.40.9")) # https://github.com/JuliaPlots/Plots.jl
+Pkg.add(PackageSpec(name="StatsBase", version="0.34.4")) # https://github.com/JuliaStats/StatsBase.jl
+
+# 06_Ex3
+Pkg.activate(joinpath(confPath, "06_Ex3"))
+Pkg.add(PackageSpec(name="LinearAlgebra", version="1.12.0")) # https://github.com/JuliaLang/LinearAlgebra.jl
+Pkg.add(PackageSpec(name="Graphs", version="1.12.0")) # https://github.com/JuliaGraphs/Graphs.jl
+Pkg.add(PackageSpec(name="GraphPlot", version="0.6.1")) # https://github.com/JuliaGraphs/GraphPlot.jl
+
+# 07_Ex4
+Pkg.activate(joinpath(confPath, "07_Ex4"))
+Pkg.add(PackageSpec(name="LinearAlgebra", version="1.12.0")) # https://github.com/JuliaLang/LinearAlgebra.jl
+Pkg.add(PackageSpec(name="Plots", version="1.40.9")) # https://github.com/JuliaPlots/Plots.jl
+Pkg.add(PackageSpec(name="Optim", version="1.11.0")) # https://github.com/JuliaNLSolvers/Optim.jl
+Pkg.add(PackageSpec(name="RDatasets", version="0.7.7")) # https://github.com/JuliaStats/RDatasets.jl
+Pkg.add(PackageSpec(name="StatsBase", version="0.34.4")) # https://github.com/JuliaStats/StatsBase.jl
