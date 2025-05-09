@@ -4,6 +4,18 @@ Material für die Vorlesung "Mathematische Methoden in der Datenanalyse" im SoSe
 
 Das Skript ist unter [diesem Link](https://pbrdng.github.io/MathData-SoSe22/MathData.pdf) verfügbar (im Laufe der Vorlesung wird mehr Inhalt hinzugefügt werden).
 
+Cite the lectures notes by using
+```bibtex
+@misc{breidingmathdata22lecturenotes,
+  author        = {Paul Breiding, Alessio D'Alì, and Samantha Fairchild},
+  title         = {Mathematical Methods in Data Science},
+  month         = {April},
+  year          = {2022},
+  publisher     = {Universität Osnabrück},
+  url           = {https://pbrdng.github.io/MathData-SoSe22/MathData.pdf}
+}
+```
+
 ---
 ## Vorlesungen
 
